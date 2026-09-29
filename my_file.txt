@@ -1,13 +1,1 @@
-"This is my very first Git experiment." 
-"This is my very first Git experiment." 
-"This is my very first Git experiment." 
-"This is my very first Git experiment." 
-"This is my very first Git experiment." 
-"This is my very first Git experiment." 
-"This is my very first Git experiment." 
-"This is my very first Git experiment." 
-"This is my very first Git experiment." 
-"This is my very first Git experiment." 
-"This is my very first Git experiment." 
-"This is my very first Git experiment." 
-"This is my very first Git experiment
+git hub is a online platform where developers store,manage,share and collaboration on code 
